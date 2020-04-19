@@ -15,7 +15,7 @@ ctx.fillstyle = "white";
 ctx.fillStyle ="black";
 
 let painting = false;
-let filling =true;
+let filling =false;
 
 function startPainting(event){
     painting = true;
